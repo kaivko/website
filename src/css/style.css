@@ -1,0 +1,50 @@
+header {
+    background-color: #A26769;
+    padding: 0
+    ;margin: 0;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: #A26769;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    background-color: #A26769;
+    padding: 8px;
+}
+li {
+    display: inline;
+    padding-inline: 8px;
+}
+
+li a {
+  text-decoration: none!important;
+  color: #ECE2D0;
+
+}
+  
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style:solid;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  color: #ECE2D0;
+} 
+.catalogue {
+  text-align: center;
+  text-decoration:underline;
+  text-decoration-style:dotted;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  color: #ECE2D0
+}
+.listImage {
+  margin-top: 5em;
+  width: 20em;
+  height: 20em;
+}
