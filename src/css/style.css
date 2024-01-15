@@ -31,8 +31,9 @@ h1 {
   text-align: center;
   text-decoration: underline;
   text-decoration-style:solid;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-variant: small-caps;
+  font-size: 40px;
   color: #ECE2D0;
 } 
 .catalogue {
@@ -43,8 +44,12 @@ h1 {
   font-variant: small-caps;
   color: #ECE2D0
 }
+
+.catalogue h2{
+  font-size: 20px;
+}
 .listImage {
   margin-top: 5em;
-  width: 20em;
-  height: 20em;
+  width: 10em;
+  height: 10em;
 }
