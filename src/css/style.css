@@ -26,28 +26,29 @@ li {
 
 li a {
   text-decoration: none !important;
-  color: #414833;
+  color: #262b1d;
 }
 
 h1 {
   text-align: center;
   text-decoration: underline;
+  background-color: #505a3c;
   text-decoration-style: solid;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-variant: small-caps;
-  font-size: 40px;
-  color: #414833;
+  font-size: 32px;
+  color: #262b1d;
   margin-block-start: 0;
   padding-top: 16px;
 }
 .catalogue {
   text-align: center;
   text-decoration: underline;
-  text-decoration-style: dotted;
+  text-decoration-color: #262b1d;
+  text-decoration-style: solid;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-variant: small-caps;
-  color: #414833;
+  color: #262b1d;
 }
 
 .catalogue h2 {
@@ -74,3 +75,8 @@ h1 {
   width: 19em;
   height: 10em;
 }
+.notionimage {
+  margin-top: 6em;
+  width: 6em;
+  height: 12em;
+} 
