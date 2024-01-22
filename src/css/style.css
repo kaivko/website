@@ -1,7 +1,7 @@
 header {
-    background-color: #a5907e;
-    padding: 0
-    ;margin: 0;
+  background-color: #a5907e;
+  padding: 0;
+  margin: 0;
 }
 
 main {
@@ -11,53 +11,53 @@ main {
   background-color: #a5907e;
 }
 ul {
-    list-style-type: none;
-    margin: 0;
-    background-color: #a5907e;
-    padding: 8px;
+  list-style-type: none;
+  margin: 0;
+  background-color: #a5907e;
+  padding: 8px;
 }
 li {
-    display: inline;
-    padding-inline: 8px;
+  display: inline;
+  padding-inline: 8px;
 }
 
 li a {
-  text-decoration: none!important;
+  text-decoration: none !important;
   color: #443730;
-
 }
-  
+
 h1 {
   text-align: center;
   text-decoration: underline;
-  text-decoration-style:solid;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration-style: solid;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-variant: small-caps;
   font-size: 40px;
   color: #443730;
-} 
+}
 .catalogue {
   text-align: center;
-  text-decoration:underline;
-  text-decoration-style:dotted;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-variant: small-caps;
   color: #443730;
 }
 
-.catalogue h2{
+.catalogue h2 {
   font-size: 20px;
 }
 .listImage {
   margin-top: 6em;
-  width: 10em;
+  width: 18em;
   height: 10em;
 }
-.catalogue h3{
+.catalogue h3 {
   font-size: 15px;
 }
 .flowerimage {
   margin-top: 6em;
-  width: 32px;
-  height: 32px;
+  width: 19em;
+  height: 10em;
 }
